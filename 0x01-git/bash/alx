@@ -1,0 +1,19 @@
+ÂÂ#!/bin/bash
+echo "ALX"
+*c
+*C
+^C
+C
+ls
+root@e67095ea619a:/alx-pre_course/0x01-git/bash# ls
+root@e67095ea619a:/alx-pre_course/0x01-git/bash# clear
+root@e67095ea619a:/alx-pre_course/0x01-git/bash# cat > school
+#!/bin/bash
+echo "School"
+root@e67095ea619a:/alx-pre_course/0x01-git/bash# git add .
+C
+:wq
+*u
+
+[3~[2~[2root@e67095ea619a:/# cd alx-pre_course
+^CReturn
